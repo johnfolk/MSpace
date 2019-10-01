@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 2.8)
+project(cureMspace)
+
+add_subdirectory(Base)
+#add_subdirectory(PointFearure)
+#add_subdirectory(Wall)
+#add_subdirectory(Hline)
+#add_subdirectory(RangedPoint)
+#add_subdirectory(Pole)
+#add_subdirectory(RelativePointFeature)
